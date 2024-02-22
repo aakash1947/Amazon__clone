@@ -1,0 +1,254 @@
+.logo {
+
+    margin-left: 100px;
+    margin-top: 20px;
+
+
+}
+
+
+.form {
+
+    height: 440px;
+    width: 350px;
+    border: 0.5px solid rgb(202, 201, 201);
+    border-radius: 12px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+
+
+
+.Signin {
+
+    align-items: center;
+    margin-left: 600px;
+}
+
+.signin-para p {
+
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+
+}
+
+.Name {
+
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.Name p {
+
+    font: 15px bold 30px Georgia, serif;
+
+}
+
+.Name input {
+
+    margin-top: 5px;
+    width: 290px;
+    height: 31px;
+    border-radius: 3px;
+    background-color: #E8F0FE;
+    border: 0.5PX solid rgb(158, 152, 152);
+}
+
+.password-fogotpass {
+
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+
+
+}
+
+.password-fogotpass span {
+
+    margin-left: 103px;
+    color: #0066c0;
+}
+
+.password-fogotpass span:hover {
+
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pass-btn input {
+
+    margin-top: 5px;
+    width: 290px;
+    height: 31px;
+    border-radius: 3px;
+    background-color: #E8F0FE;
+    border: 0.5PX solid rgb(158, 152, 152);
+    margin-left: 20px;
+
+}
+
+.signin-button {
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+
+}
+
+.signin-button button {
+
+    width: 295px;
+    height: 32px;
+    background-color: rgb(255, 217, 0);
+    border-radius: 9px;
+    border: 2px solid rgb(255, 217, 0);
+}
+
+.signin-button button {
+
+    cursor: pointer;
+
+}
+
+.Condition-para {
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.Condition-para p {
+
+    font-size: 13px;
+}
+
+.Condition-para span {
+
+    color: #0066c0;
+
+}
+
+.Condition-para span:hover {
+
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.cheak-box {
+
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 13px;
+    gap: 5px;
+
+
+}
+
+.cheak-box span {
+
+    color: #0066c0;
+}
+
+.cheak-box span:hover {
+
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+
+.Create-section {
+
+    margin-left: 20px;
+    margin-top: 20px;
+
+
+}
+
+.Create-section p {
+
+    margin-left: 100px;
+    font-size: 13px;
+    color: #767676;
+    display: inline-block;
+
+
+
+}
+
+.Create-section button {
+
+    margin-top: 10px;
+    width: 295px;
+    height: 32px;
+    border: none;
+    border-radius: 9px;
+
+
+}
+
+.Create-section button:hover {
+
+    background-color: rgb(242, 241, 241);
+    cursor: pointer;
+
+
+}
+
+
+.footer-section {
+
+    margin-top: 40px;
+    border: 2px solid #eff2f5;
+    height: 150px;
+
+}
+
+
+.line1 {
+
+    text-align: center;
+    display: flex;
+    margin-left: 620px;
+    gap: 50px;
+    margin-top: 20px;
+
+}
+
+.line1 p {
+
+    font-size: 13px;
+    color: #0066c0;
+
+}
+
+.line1 p:hover {
+
+    font-size: 13px;
+    color: #0066c0;
+    cursor: pointer;
+    text-decoration: underline;
+
+}
+
+.line2 {
+
+    text-align: center;
+    margin-top: 10px;
+    font-size: 13px;
+
+
+
+}
+
+.footer-section {
+
+    background-color: #eff2f5;
+
+}

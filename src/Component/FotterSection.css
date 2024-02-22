@@ -1,0 +1,215 @@
+.f-section1 {
+
+    height: 40px;
+    background-color: #262929;
+    text-align: center;
+
+
+
+
+
+}
+
+.f-section1-para P {
+
+    color: white;
+    align-items: center;
+    font-size: 13px;
+
+}
+
+
+
+.f-section1:hover {
+
+
+    background-color: #4b4f4f;
+    cursor: pointer;
+
+
+}
+
+
+
+/* section---2 */
+
+
+.f-section2 {
+
+    height: 350px;
+    width: 1520px;
+    border: 2px solid #232F;
+    background-color: #232F;
+}
+
+.ROW1 {
+
+    display: flex;
+    margin-top: 50px;
+    margin-left: 250px;
+    gap: 100px;
+    align-items: center;
+    color: white;
+
+}
+
+
+.box1 p {
+
+    color: #DDDDDD;
+}
+
+.box1 p:hover {
+
+    cursor: pointer;
+    text-decoration-line: underline;
+
+}
+
+.box2 p {
+
+    color: #DDDDDD;
+}
+
+.box2 p:hover {
+
+    cursor: pointer;
+    text-decoration-line: underline;
+
+}
+
+.box3 p {
+
+    color: #DDDDDD;
+}
+
+.box3 p:hover {
+
+    cursor: pointer;
+    text-decoration-line: underline;
+
+}
+
+.box4 p {
+
+    color: #DDDDDD;
+}
+
+.box4 p:hover {
+
+    cursor: pointer;
+    text-decoration-line: underline;
+
+}
+
+
+/* third fotter */
+
+
+
+.third-section {
+
+    height: 200px;
+    border: 0.5px solid rgb(98, 97, 97);
+    background-color: #232F;
+
+}
+
+
+.logo-English {
+
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 500px;
+    gap: 90px;
+}
+
+.English {
+
+    border: 1px solid rgb(229, 224, 224);
+    height: 35px;
+    width: 117px;
+    text-align: center;
+    /* margin-bottom: 20px; */
+    /* padding-bottom: 20px; */
+
+
+}
+
+.English-img img {
+
+    width: 18px;
+    height: 18px;
+    display: flex;
+    margin-top: 12px;
+
+}
+
+
+
+
+.English-para {
+
+    /* text-align: center; */
+    /* margin-bottom: 20px; */
+    /* padding: 0px 7.8px; */
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.country-name-2 {
+
+    display: flex;
+    align-items: center;
+    color: #DDDDDD;
+    margin-left: 200px;
+    margin-top: 20px;
+    gap: 10px;
+    font-size: 13px;
+}
+
+.country-name-2 p:hover {
+
+    cursor: pointer;
+    text-decoration-line: underline;
+}
+
+
+
+
+/* last-footer-section */
+
+
+.last-footer-section {
+
+    width: 1520px;
+    border: 2px solid #131A22;
+    height: 230px;
+    background-color: #131A22;
+}
+
+.BOX1 {
+
+    display: flex;
+    margin-left: 300px;
+    gap: 120px;
+    margin-top: 50px;
+
+}
+
+
+#box-A {
+
+    font-size: 15px;
+}

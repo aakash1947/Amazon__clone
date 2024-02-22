@@ -1,0 +1,15 @@
+.Card-Container {
+
+    height: 500px;
+    width: 350px;
+    border: 2px solid black;
+    /* margin: 50px; */
+    flex-wrap: wrap
+}
+
+.card-img-para img {
+
+    width: 100px;
+    height: 100px;
+    ;
+}
