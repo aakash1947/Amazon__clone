@@ -1,5 +1,6 @@
 import React from "react";
 import SimpleImageSlider from "react-simple-image-slider";
+
 export default function App() {
   const sliderImages = [
     {
@@ -30,7 +31,11 @@ export default function App() {
         height={600}
         images={sliderImages}
         showNavs={true}
+
       />
+
+
+
 
 
     </div>

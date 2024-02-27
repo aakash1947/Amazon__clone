@@ -36,7 +36,7 @@ const Login = (props) => {
                         </div>
 
                         <div className="signin-button">
-                            <button className='btn' onClick={props.handlelogin}>Sign in</button>
+                            <button className='btn' onClick={props.handleLogin}>Sign in</button>
                         </div>
 
                         <div className="Condition-para">

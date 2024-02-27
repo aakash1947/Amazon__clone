@@ -106,13 +106,12 @@ const FotterSection = () => {
                         <div className="English-img">
                             <img className='imageses' src="./images/earth.png" alt="" />
 
+
                         </div>
 
 
 
-                        <div className="English-para">
-                            <p className='English-para'>English</p>
-                        </div>
+
                     </div>
 
 
@@ -201,7 +200,14 @@ const FotterSection = () => {
                 </div>
 
 
+                <dir className='line2'>
+                    <p>© feb-2024 . Aakash Gupta</p>
+                </dir>
+
             </div>
+
+
+
 
 
 

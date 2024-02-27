@@ -1,0 +1,62 @@
+.foottersignin {
+
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    height: 200px;
+    margin-top: 20px;
+
+}
+
+.foottersign-innerbox {
+
+    border: 1px solid rgb(185, 184, 184);
+    height: 100px;
+    margin-top: 70px;
+    border-radius: 5px;
+}
+
+.foottersign-box {
+
+    margin-top: 16px;
+}
+
+.f-sgin-box1 p {
+
+    font-size: 15px;
+}
+
+
+.f-sgin-box2 button {
+
+    width: 295px;
+    height: 32px;
+    background-color: rgb(255, 217, 0);
+    border-radius: 9px;
+    border: 2px solid rgb(255, 217, 0);
+    margin-top: 8px;
+}
+
+.f-sgin-box2 button:hover {
+
+    cursor: pointer;
+
+}
+
+.f-sgin-box3 p {
+
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.f-sgin-box3 span {
+
+    color: green;
+
+}
+
+.f-sgin-box3 span:hover {
+
+    text-decoration: underline;
+    cursor: pointer;
+    color: red;
+}

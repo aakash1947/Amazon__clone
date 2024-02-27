@@ -2,13 +2,13 @@ import React from 'react'
 // import { FontAwesomeIcon } from 'react-fontawesome';
 
 
-const Navigationbar = () => {
+const Navigationbar = (props) => {
     return (
         <div>
             <div className="navbar">
 
                 <div className="nav-logo">
-                    <div className="logo border "> <img src="./images/logo.png" alt="" /></div>
+                    <img className='border' src="./images/logo.png" alt="" />
                 </div>
 
                 <div className="nav-address border">
@@ -53,14 +53,14 @@ const Navigationbar = () => {
 
                 </div>
 
-                <div className="sign-Account border">
+                <div className="sign-Account border" onClick={props.Signinsection}>
                     <div >
                         <p className='sign-in'>Hello,signIn</p>
                     </div>
                     <div><p className='Account' >Account & List</p></div>
                 </div>
 
-                <div className="return border">
+                <div className="return border" onClick={props.openOrdersection}>
                     <div >
                         <p className="sign-in">Return</p>
                     </div>

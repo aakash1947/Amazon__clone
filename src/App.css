@@ -2,6 +2,12 @@
   margin: 0;
   font-family: Arial;
   border: border-box;
+
+}
+
+body {
+
+  background-color: #050505;
 }
 
 .navbar {
@@ -36,12 +42,29 @@
   cursor: pointer;
 }
 
-.logo img {
+.nav-logo img {
 
-  width: 150px;
+  /* width: 150px; */
+  margin-top: 20px;
+  margin-left: 25px;
 }
 
 /* box2 */
+.nav-address {
+
+  margin-right: 15px;
+
+}
+
+.nav-address:hover {
+
+  border: 2px solid white;
+  cursor: pointer;
+
+}
+
+
+
 .loaction-icons img {
   height: 15px;
   width: 15px;
@@ -66,6 +89,8 @@
   color: #ffff;
   margin-left: 3px;
 }
+
+
 
 /* search-panel */
 
